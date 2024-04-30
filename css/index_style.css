@@ -1,0 +1,14 @@
+*{
+    font-family: "Bebas Neue", sans-serif;
+
+}
+p.fot{
+    font-family: "Workbench", sans-serif;
+    font-weight: 800;
+}
+.quote-sec{
+    background-image: url(../imgs/wallpaperflare.com_wallpaper.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
